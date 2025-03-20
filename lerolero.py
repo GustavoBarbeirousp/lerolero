@@ -5,18 +5,13 @@
 
 import random
 
-<<<<<<< HEAD
 # Cada frase é composta por três partes aleatórias;
 # Listas de possibilidade para cada uma das partes.
 =======
-# Cada frase é composta por três partes aleatórias; aqui,
-# Listas de possibilidades para cada uma das partes
->>>>>>> ingles
-
 parte1 = [
 	"O sistema em desenvolvimento",
 	"O novo protocolo de comunicação",
-	"O algoritmo otimizado"
+	"O algoritmo otimizado e"
 	]
 parte2 = [
 	"possui excelente desenpenho",
