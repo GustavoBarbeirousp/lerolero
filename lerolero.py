@@ -5,18 +5,13 @@
 
 import random
 
-<<<<<<< HEAD
 # Cada frase é composta por três partes aleatórias;
 # Listas de possibilidade para cada uma das partes.
-=======
-# Cada frase é composta por três partes aleatórias; aqui,
-# Listas de possibilidades para cada uma das partes
->>>>>>> ingles
 
 parte1 = [
 	"O sistema em desenvolvimento",
 	"O novo protocolo de comunicação",
-	"O algoritmo de otimização"
+	"O algoritmo otimizado e"
 	]
 parte2 = [
 	"possui excelente desenpenho",
@@ -36,7 +31,6 @@ if lingua == 2:
 	parte2 = []
 	parte3 = []
 
-# Imprimi em ordem aleatória
 # Combina as partes aleatoriamente
 
 print (random.choice(parte1), random.choice(parte2), rondom.choice(parte3))
